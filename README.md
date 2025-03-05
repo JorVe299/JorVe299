@@ -18,6 +18,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorVe299&show_icons=true&theme=dark)  
 
 💡 **Always open to new projects & collaborations!** If you need a custom script or have any questions, feel free to reach out on Discord or check out our Tebex store! 🚀  
