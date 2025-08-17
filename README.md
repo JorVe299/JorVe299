@@ -12,7 +12,6 @@
 
 - 📦 [Tebex Store](https://jp5m-scripts.tebex.io) – Browse our FiveM scripts  
 - 🎮 [Discord Community](https://discord.gg/EfzCFzqTRR) – Get support & connect with us  
-- 📷 [Facebook](https://www.facebook.com/profile.php?id=61572797757370) – Stay updated with our latest work  
 
 ### 🛠️ **Tech Stack**  
 
