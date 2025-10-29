@@ -1,6 +1,6 @@
 ## 🚀 **Welcome to My GitHub!**
 
-👋 Hey there! I’m a **self-taught developer from Germany**, specializing in **FiveM Lua scripting**. Together with ![https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white](https://github.com/derPolarix), I create **custom scripts** for FiveM servers and provide tailored solutions for the community.
+👋 Hey there! I’m a **self-taught developer from Germany**, specializing in **FiveM Lua scripting**. Together with [derPolarix](https://github.com/derPolarix), I create **custom scripts** for FiveM servers and provide tailored solutions for the community.
 
 ### 💻 **What I Do**
 
